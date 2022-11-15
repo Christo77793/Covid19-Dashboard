@@ -15,3 +15,5 @@ The second page gives a bit of information on Covid19
 The third page shows different vizualizations from the dataset.
 
 ![Screenshot](https://raw.githubusercontent.com/Christo77793/Covid19-Dashboard/main/Screenshots/Page%203.png)
+
+Collaborators: Aanandita Madan Chavan
