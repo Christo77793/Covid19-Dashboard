@@ -1,0 +1,2 @@
+# Covid19-Dashboard
+A reproduction of the Covid19 Dashboard found here: https://app.powerbi.com/view?r=eyJrIjoiNjY1YzIyNTYtNzE3MS00M2EzLThjZDEtOTQzY2Q0ODg3ZjViIiwidCI6IjJiZGU2MmUwLTM2YjItNGJkOC1hZTRiLTg0ZTRlOWM0ZDMzOSJ9&amp;amp;pageName=ReportSection8bc4c0915a0943633406
