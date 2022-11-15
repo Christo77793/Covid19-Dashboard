@@ -1,6 +1,6 @@
 # Covid19-Dashboard
 
-The data source is live and is obtained from this link: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/01-14-2022.csv
+The data source is live and is obtained from this [link:](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/01-14-2022.csv)
 
 The dashboard can be traversed between pages with buttons in each page.
 
