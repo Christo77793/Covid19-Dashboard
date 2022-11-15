@@ -1,6 +1,6 @@
 # Covid19-Dashboard
 
-This project was part of my graduate course, for which I had to reproduce the Covid19 Dashboard found [here](https://app.powerbi.com/view?r=eyJrIjoiNjY1YzIyNTYtNzE3MS00M2EzLThjZDEtOTQzY2Q0ODg3ZjViIiwidCI6IjJiZGU2MmUwLTM2YjItNGJkOC1hZTRiLTg0ZTRlOWM0ZDMzOSJ9&amp;pageName=ReportSection8bc4c0915a0943633406). The data source is live and is obtained from this [link](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/01-14-2022.csv).
+This project was part of my graduate certificate, for which I had to reproduce the Covid19 Dashboard found [here](https://app.powerbi.com/view?r=eyJrIjoiNjY1YzIyNTYtNzE3MS00M2EzLThjZDEtOTQzY2Q0ODg3ZjViIiwidCI6IjJiZGU2MmUwLTM2YjItNGJkOC1hZTRiLTg0ZTRlOWM0ZDMzOSJ9&amp;pageName=ReportSection8bc4c0915a0943633406). The data source is live and is obtained from this [link](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/01-14-2022.csv).
 
 The dashboard can be traversed between pages with buttons in each page.
 
